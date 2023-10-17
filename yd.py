@@ -10,7 +10,8 @@
 # 抓包 zhizhitech.com 下 Authorization 的值
 # 悦读
 # export yuedu_authorization='Bearer eyJ0e&Bearer eyJ0e*******',多账号使用换行或&
-
+# 青龙拉取命令 ql raw https://ghproxy.com/https://raw.githubusercontent.com/q7q7q7q7q7q7q7/ziyou/main/悦读.py
+# https://t.me/q7q7q7q7q7q7q7_ziyou
 
 import concurrent.futures
 import json
