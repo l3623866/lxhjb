@@ -6,9 +6,9 @@ import requests
 import json
 import notify 
 #填写下面的信息，经纬度请自行百度，使用青龙自带的推送
-key = "你的彩云天气API key"
-lon = "你所在位置的经度"
-lat = "你所在位置的纬度"
+key = "NrwoTKNIVZTBvI4w"
+lon = "118.707196"
+lat = "27.258284"
 
 #下面的不用管了
 api_url = f"https://api.caiyunapp.com/v2.6/{key}/{lon},{lat}/weather?alert=true&realtime&minutely" 
